@@ -98,11 +98,11 @@ ITEM_20150317_000108	Algunas personas incluso dicen que esta arma es demasiado c
 ITEM_20150317_000109	Fortis
 ITEM_20150317_000110	Unpopular during the Great Plant Cataclysm, the resurgence of strong defense monsters is proving its value.
 ITEM_20150317_000111	Chapparition Cutter
-ITEM_20150317_000112	According to a theory, this sword is also used in battles amongst the Demons.
+ITEM_20150317_000112	Acorde a la teoria, esta espada es usada en las batllas entre demonios.
 ITEM_20150317_000113	Deathweaver Cutter
 ITEM_20150317_000114	Tú, portador de esta espada, te convertirás en el Portador de la Muerte.
-ITEM_20150317_000115	Chapparition Sword
-ITEM_20150317_000116	This serves as indirect evidence for the disputes between Demons.
+ITEM_20150317_000115	Espada Chapparition
+ITEM_20150317_000116	Esto sirve como evidencia indirecta de la disputa entre demonios.
 ITEM_20150317_000117	Bendras Sword
 ITEM_20150317_000118	Una espada que posee un poco del poder y las bendiciones de la Diosa que terminó con muchos males en el pasado.
 ITEM_20150317_000119	Illizia
@@ -631,7 +631,7 @@ ITEM_20150317_000693	Duty
 ITEM_20150317_000694	A prototype model of the Sauroter. Both ends can be used if necessary.
 ITEM_20150317_000695	Assegai
 ITEM_20150317_000696	Though heavier than some other spears, a portion of its weight is offset by the spell bound to this weapon.
-ITEM_20150317_000697	Cheminis Spear
+ITEM_20150317_000697	Lanza Cheminis
 ITEM_20150317_000698	There are no weapons that cannot be crafted with alchemy, but this doesn't necessarily mean they will be better than those from a blacksmith.
 ITEM_20150317_000700	Recommended if you seek after more offensive power than what your spear skills can produce.
 ITEM_20150317_000701	Zega Spear
@@ -838,16 +838,16 @@ ITEM_20150317_000909	Arca Staff
 ITEM_20150317_000910	According to one tale, Agailla Flurry used to carry this kind of staff when she was constructing the Mage Tower.
 ITEM_20150317_000911	Raganos Horn
 ITEM_20150317_000912	Habbok, a Demon King sealed a long time ago, revealed the secrets of the Demon world. Agailla Flurry created this recipe based on that revealed information.
-ITEM_20150317_000913	Light Gloves
-ITEM_20150317_000914	Gloves
-ITEM_20150317_000915	This item may save your life.
-ITEM_20150317_000916	Light Boots
-ITEM_20150317_000917	Shoes
-ITEM_20150317_000918	A pair of shoes that can worn in a variety of areas and terrain throughout the kingdom. Not wearing shoes is quite dangerous.
-ITEM_20150317_000919	Light Pants
-ITEM_20150317_000920	Pants
-ITEM_20150317_000921	There are no adventurers who journey out without these.
-ITEM_20150317_000922	Light Armor
+ITEM_20150317_000913	Guantes ligeros
+ITEM_20150317_000914	Guantes
+ITEM_20150317_000915	Este objeto puede salvar tu vida.
+ITEM_20150317_000916	Botas ligeras
+ITEM_20150317_000917	Zapatos
+ITEM_20150317_000918	Un par de zapatos que puede ser usado en varias áreas y terreno del reino. No usar zapatos puede ser muy peligroso.
+ITEM_20150317_000919	Pantalones ligeros
+ITEM_20150317_000920	Patalones
+ITEM_20150317_000921	No hay ningún aventurero que viaje sin ellos.
+ITEM_20150317_000922	Armadura ligera
 ITEM_20150317_000923	Top [Leather]
 ITEM_20150317_000924	It doesn't matter what kind of leather it is made of as long as it protects the wearer.
 ITEM_20150317_000925	Quilt Gloves
